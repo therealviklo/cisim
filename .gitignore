@@ -1,0 +1,5 @@
+cisim
+.vscode
+*.o
+*.obj
+*.exe
